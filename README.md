@@ -42,7 +42,7 @@ download choose OS
 <br />
 <br />
 After I sign in, it will take me to the homepage where I can start a VPN connection:  <br/>
-<img src="https://i.imgur.com/cup7xHR.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+![image](https://github.com/user-attachments/assets/a6892b3c-4648-4ec0-9f96-e5302ca981d0)
 <br />
 <br />
 I'll click on "Quick Connect" and it will choose and start a VPN connection for me:
