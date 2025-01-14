@@ -15,7 +15,7 @@ VPNs (Virtual Private Networks) allow you to connect to a network through encryp
 <h2>Environments and Utilities Used</h2>
 
 - <b>ProtonVPN</b>
-- <b>Microsoft Azure</b>
+
 
 <h2>Project Walk-through:</h2>
 
