@@ -19,24 +19,6 @@ VPNs (Virtual Private Networks) allow you to connect to a network through encryp
 
 <h2>Project Walk-through:</h2>
 
-<p align="center">
-First, I will create an Azure VM: <br/>
-<img src="https://i.imgur.com/iQRAiPJ.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-<img src="https://i.imgur.com/5OSa0sF.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-While that's creating I will navigate to this website https://whatismyipaddress.com to get my physical IP address and location. I will write this down in my notepad so that I can observe the changes later when we connect to our VM:  <br/>
-<img src="https://i.imgur.com/cXaQGAj.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-Next, I'll connect to the VM I just created using Remote Desktop Connection:  <br/>
-<img src="https://i.imgur.com/245dku7.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-Once I'm connected to my VM I will navigate to the same IP website, then observe and note the different IP and location since I set this VM up to be in Canada. (This RDP connection is like a VPN connection in the sense that there is a tunnel connecting my physical computer to the VM in a different location entirely):  <br/>
-<img src="https://i.imgur.com/y0itDin.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Now, I can head over to ProtonVPN and sign up for a free account:  <br/>
