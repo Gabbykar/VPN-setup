@@ -18,19 +18,27 @@ VPNs (Virtual Private Networks) allow you to connect to a network through encryp
 
 
 <h2>Project Walk-through:</h2>
+<br />
+<br />
 
+IP address before Proton Setup
+![image](https://github.com/user-attachments/assets/b573b66c-9626-4135-b077-630acad8abfb)
 <br />
 <br />
 Now, I can head over to ProtonVPN and sign up for a free account:  <br/>
-<img src="https://i.imgur.com/dkzaTum.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+![image](https://github.com/user-attachments/assets/a6defd4f-2358-455c-b12e-ca8899941f27)
 <br />
 <br />
 After I made my account, now I can download the windows version in the downloads tab:  <br/>
-<img src="https://i.imgur.com/KYdNGNv.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+![image](https://github.com/user-attachments/assets/d49dd8ba-aa81-4da5-9559-d3a4c4e9416c)
 <br />
 <br />
-The download will start and then I'll install the VPN client. It will then have a pop-up for me to sign in with my ProtonVPN account I just made:  <br/>
-<img src="https://i.imgur.com/8Kn8q2w.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+Sign in
+![image](https://github.com/user-attachments/assets/19d615d7-4734-494b-8cfb-a5c7e41aa497)
+<br />
+<br />
+download choose OS
+![image](https://github.com/user-attachments/assets/c1345dbc-b950-4a45-bb30-0076e92406b6)
 <br />
 <br />
 After I sign in, it will take me to the homepage where I can start a VPN connection:  <br/>
@@ -38,22 +46,15 @@ After I sign in, it will take me to the homepage where I can start a VPN connect
 <br />
 <br />
 I'll click on "Quick Connect" and it will choose and start a VPN connection for me:
-<img src="https://i.imgur.com/uMCJ8Px.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+![image](https://github.com/user-attachments/assets/a6892b3c-4648-4ec0-9f96-e5302ca981d0)
 <br />
 <br />
-Now, if i go back to the IP address website and refresh the page, it shows me that I am in Romainia instead of Canada, and I have another different IP address:  <br/>
-<img src="https://i.imgur.com/bmCGOuW.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-Also, while connected to the VPN I can go to different sites like, www.google.com and www.netflix.com to see the difference compared to if I were on these sites within my own physical computers browser:  <br/>
-<img src="https://i.imgur.com/AlHOv92.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-<img src="https://i.imgur.com/UrfIVcB.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
+Now connected to Japan
+![image](https://github.com/user-attachments/assets/1c415291-e4c3-4739-92ae-0530d456b5cf)
 
-<h2> The Setup and Use of Proton is now Complete!</h2>
+
+
+<h2> The Setup of Proton is now Complete!</h2>
 
 <b> We've successfully downloaded, installed, and used a free VPN called ProtonVPN! We observed all of the different changes that happened with our IP address and location, and saw some possibilites like, accessing different content while using a VPN! </b>
 <br />
